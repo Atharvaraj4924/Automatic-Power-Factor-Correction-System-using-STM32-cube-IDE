@@ -1,0 +1,13 @@
+../Core/Src/main.c:95:13:CalibrateOffsets	4
+../Core/Src/main.c:135:13:ReadPowerParameters	15
+../Core/Src/main.c:329:13:ApplyCapacitorState	1
+../Core/Src/main.c:360:14:GetCapacitanceFromState	5
+../Core/Src/main.c:389:14:CalculateRequiredCapacitance	8
+../Core/Src/main.c:467:16:FindBestCapacitorCombination	3
+../Core/Src/main.c:493:13:CorrectPowerFactor	10
+../Core/Src/main.c:577:5:main	5
+../Core/Src/main.c:717:6:SystemClock_Config	4
+../Core/Src/main.c:789:13:MX_ADC1_Init	4
+../Core/Src/main.c:856:13:MX_I2C1_Init	2
+../Core/Src/main.c:889:13:MX_GPIO_Init	1
+../Core/Src/main.c:947:6:Error_Handler	1
