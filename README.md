@@ -213,6 +213,10 @@ This project is developed for **academic and educational purposes**.
 
 ---
 
-## ⭐ Acknowledgement
+## 🙏 Acknowledgement
 
-We would like to thank our project mentors, faculty members, and department for their guidance and support throughout the development of this project.
+We sincerely express our gratitude to our project guide, faculty members, and the Electronics and Telecommunication Engineering Department for their valuable guidance, technical support, and encouragement throughout the development of this project.
+
+We also thank our institute for providing the necessary laboratory facilities and resources required for the successful implementation and testing of the Automatic Power Factor Correction (APFC) System.
+
+Finally, we would like to thank everyone who supported us directly or indirectly during the design, development, testing, and documentation of this project.
